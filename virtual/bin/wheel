@@ -1,4 +1,4 @@
-#!/Users/silvianjoki/Documents/Projects/Hello-Flask/virtual/bin/python
+#!/Users/silvianjoki/Documents/Projects/Watchlist/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
